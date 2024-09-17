@@ -1,0 +1,16 @@
+E:\Bai tap Desktop\QuanLiThuVienSachCaNhan-master\QuanLiThuVienSachCaNhan\bin\Debug\QuanLiThuVienSachCaNhan.exe.config
+E:\Bai tap Desktop\QuanLiThuVienSachCaNhan-master\QuanLiThuVienSachCaNhan\bin\Debug\QuanLiThuVienSachCaNhan.exe
+E:\Bai tap Desktop\QuanLiThuVienSachCaNhan-master\QuanLiThuVienSachCaNhan\bin\Debug\QuanLiThuVienSachCaNhan.pdb
+E:\Bai tap Desktop\QuanLiThuVienSachCaNhan-master\QuanLiThuVienSachCaNhan\obj\Debug\QuanLiThuVienSachCaNhan.csproj.AssemblyReference.cache
+E:\Bai tap Desktop\QuanLiThuVienSachCaNhan-master\QuanLiThuVienSachCaNhan\obj\Debug\QuanLiThuVienSachCaNhan.FrmThemChuDe.resources
+E:\Bai tap Desktop\QuanLiThuVienSachCaNhan-master\QuanLiThuVienSachCaNhan\obj\Debug\QuanLiThuVienSachCaNhan.LoginForm.resources
+E:\Bai tap Desktop\QuanLiThuVienSachCaNhan-master\QuanLiThuVienSachCaNhan\obj\Debug\QuanLiThuVienSachCaNhan.Form_chinh.resources
+E:\Bai tap Desktop\QuanLiThuVienSachCaNhan-master\QuanLiThuVienSachCaNhan\obj\Debug\QuanLiThuVienSachCaNhan.Frm_ChoMuon.resources
+E:\Bai tap Desktop\QuanLiThuVienSachCaNhan-master\QuanLiThuVienSachCaNhan\obj\Debug\QuanLiThuVienSachCaNhan.frm_thongke.resources
+E:\Bai tap Desktop\QuanLiThuVienSachCaNhan-master\QuanLiThuVienSachCaNhan\obj\Debug\QuanLiThuVienSachCaNhan.Properties.Resources.resources
+E:\Bai tap Desktop\QuanLiThuVienSachCaNhan-master\QuanLiThuVienSachCaNhan\obj\Debug\QuanLiThuVienSachCaNhan.ThemSach.resources
+E:\Bai tap Desktop\QuanLiThuVienSachCaNhan-master\QuanLiThuVienSachCaNhan\obj\Debug\QuanLiThuVienSachCaNhan.csproj.GenerateResource.cache
+E:\Bai tap Desktop\QuanLiThuVienSachCaNhan-master\QuanLiThuVienSachCaNhan\obj\Debug\QuanLiThuVienSachCaNhan.csproj.CoreCompileInputs.cache
+E:\Bai tap Desktop\QuanLiThuVienSachCaNhan-master\QuanLiThuVienSachCaNhan\obj\Debug\QuanLiThuVienSachCaNhan.exe
+E:\Bai tap Desktop\QuanLiThuVienSachCaNhan-master\QuanLiThuVienSachCaNhan\obj\Debug\QuanLiThuVienSachCaNhan.pdb
+E:\Bai tap Desktop\QuanLiThuVienSachCaNhan-master\QuanLiThuVienSachCaNhan\obj\Debug\QuanLiThuVienSachCaNhan.Timkiem.resources
